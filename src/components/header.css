@@ -1,0 +1,29 @@
+
+.header{
+    background-color: #13274F;
+    display: flex;
+    font-style: italic;
+    height:10vh;
+
+}
+.a{
+/* margin-left:550px; */
+text-align: end; 
+
+}
+
+.text{
+    color:red;
+}
+.bold{
+    color:white;
+    font-style: italic;
+}
+
+.photography{
+    font-style: italic;
+    font-weight: bold;
+}
+.p{
+    color:white;
+}
