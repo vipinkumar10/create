@@ -1,0 +1,11 @@
+.vtitle{
+color:#13274f;
+font-weight: bold;
+font-family: 'Karla', sans-serif;
+}
+.vtitle :hover{
+    color:brown;
+}
+.vc{
+    height:60vh;
+}
