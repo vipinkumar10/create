@@ -16,25 +16,20 @@ export class Home extends Component {
                         
                         <Carousel fade id="carousl" >
                             <Carousel.Item class="carosltext">
-                                <Roll Top>
                                 <img
                                     className="d-block w-100 "
                                     class="images"
                                     src={banner1}
                                     alt="First slide"
                                 />
-                                </Roll>
                               
                                 <Carousel.Caption >
-                                    <Roll Top>
                                     <h3 className="h3">Welcome to Marriage Photography</h3>
-                                    </Roll>
                                     <p className="p"> Abstract photography is truly a way to express your creative vision, to open your eyes to things you've never noticed before and to make the unseen seen</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
 
                             <Carousel.Item>
-                                <Roll Top>
                                 
                                 <img
                                     className="d-block w-100"
@@ -43,7 +38,6 @@ export class Home extends Component {
 
                                     alt="Second slide"
                                 />
-</Roll>
                                 <Carousel.Caption>
                                 <LightSpeed left>
                                     <h3 className="h3">Welcome to Abstract Photography</h3>
@@ -53,7 +47,6 @@ export class Home extends Component {
                             </Carousel.Item>
 
                             <Carousel.Item>
-                                <Roll Top>
                                 <img
                                     className="d-block w-100"
                                     class="images"
@@ -61,7 +54,6 @@ export class Home extends Component {
 
                                     alt="Third slide"
                                 />
-</Roll>
                                 <Carousel.Caption>
                                     <Slide Right>
                                     <h3 className="h3">Welcome to Videography</h3>
@@ -70,7 +62,6 @@ export class Home extends Component {
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
-                                <Roll Bottom>
                                 <img
                                     className="d-block w-100"
                                     class="images"
@@ -78,7 +69,6 @@ export class Home extends Component {
 
                                     alt="Third slide"
                                 />
-</Roll>
                                 <Carousel.Caption>
                                     <Rotate left>
                                     <h3 className="h33">Welcome to Adventure Photography</h3>
