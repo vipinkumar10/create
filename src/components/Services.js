@@ -22,9 +22,7 @@ export class Services extends Component {
       return( 
           <div>
                <div class="container" class="ourservices">
-                   <Roll Top>
                         <h2 className="h2">Our Services</h2>
-                        </Roll>
                  </div>
               <div class ="container" id="cards"  >
                         <CardDeck >
@@ -44,7 +42,6 @@ export class Services extends Component {
                             </Card>
 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  className="cimg" variant="top" src={card1}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Fashion Photography</b></Card.Title>
@@ -53,11 +50,9 @@ export class Services extends Component {
                                     
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card2}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Macro Photography</b></Card.Title>
@@ -66,11 +61,9 @@ export class Services extends Component {
                                     
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
                                 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card3}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Holiday Photography</b></Card.Title>
@@ -78,13 +71,11 @@ export class Services extends Component {
                                 Black and white (B&W) photography focuses on capturing an image with no color.  Taking photos of a 
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
                         </CardDeck>
                         {/*  2nd card */}
                         <CardDeck>
                         <Card className="card1" border="primary">
-                            <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card4}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Food Photography</b></Card.Title>
@@ -93,11 +84,9 @@ export class Services extends Component {
                                 Taking photos of a family in posed
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
 
                             <Card className="card1" border="primary">
-<Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card5}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Indoor Photography</b></Card.Title>
@@ -106,11 +95,9 @@ export class Services extends Component {
                                     content.{' '}
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card6}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Candid Photography</b></Card.Title>
@@ -120,11 +107,9 @@ export class Services extends Component {
                                     content.{' '}
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
                                 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card7jpg}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Sports Photography</b></Card.Title>
@@ -132,13 +117,11 @@ export class Services extends Component {
                                 Commercial photography is that which is taken specifically for commercial use, usually to promote or sell a product or service.
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
                         </CardDeck>
                         {/* 3rd card */}
                         <CardDeck>
                         <Card className="card1" border="primary">
-                            <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card8}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Product Photography</b></Card.Title>
@@ -147,11 +130,9 @@ export class Services extends Component {
                                 Taking photos of a 
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card9}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Drone photography</b></Card.Title>
@@ -160,11 +141,9 @@ export class Services extends Component {
                                     content.{' '}
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card10}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Event Photography</b></Card.Title>
@@ -173,11 +152,9 @@ export class Services extends Component {
                                     content.{' '}
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
                             </Card>
                                 
                             <Card className="card1" border="primary">
-                                <Roll Top>
                             <Card.Img  class="cimg" variant="top" src={card11}  />
                                 <Card.Body>
                                 <Card.Title className="ctitle"><b>Family Photography</b></Card.Title>
@@ -185,7 +162,7 @@ export class Services extends Component {
                                 Taking photos of a family in posed or candid portraiture is known as family photography. Taking photos of a family in posed
                                 </Card.Text>
                                 </Card.Body>
-                                </Roll>
+                                
                             </Card>
                         </CardDeck>
                  </div>
