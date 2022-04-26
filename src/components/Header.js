@@ -52,7 +52,7 @@ function  Header () {
             <div class="checkbox">
               <label><input type="checkbox" /> Remember me</label>
             </div>
-            <Link onClick={opensignup}>don't have an account? signup</Link>
+            {/* <Link onClick={opensignup}>don't have an account? signup</Link> */}
           </form>
         </ModalBody>
         <ModalFooter>
